@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.6 (venv) (72)" project-jdk-type="Python SDK" />
+</project>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Crop_Recommender_System.iml" filepath="$PROJECT_DIR$/.idea/Crop_Recommender_System.iml" />
+    </modules>
+  </component>
+</project>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e250e2d-6f30-4a81-8094-a6fba38369b0" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crop_recommender_system/Service_Provider/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3192">
+              <caret line="167" column="0" lean-forward="false" selection-start-line="167" selection-start-column="0" selection-end-line="168" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+<option >
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1004" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Crop_Recommender_System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Crop_Recommender_System" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Crop_Recommender_System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Crop_Recommender_System" type="462c0819:PsiDirectoryNode" />
+              <item name="crop_recommender_system" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Crop_Recommender_System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Crop_Recommender_System" 
+              <item name="Remote_User" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e250e2d-6f30-4a81-8094-a6fba38369b0" name="Default" comment="" />
+      <created>1635511181425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635511181425</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/crop_recommender_system/Template/htmls/SProvider/serviceproviderlogin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1533">
+          <caret line="73" column="72" lean-forward="false" selection-start-line="73" selection-start-column="72" selection-end-line="73" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crop_recommender_system/Remote_User/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="25" column="23" lean-forward="false" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crop_recommender_system/crop_recommender_system/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crop_recommender_system/Service_Provider/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+#!/usr/bin/env python
+"""Django's command-line utility for administrative tasks."""
+import os
+import sys
+def main():
+    """Run administrative tasks."""
+    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'crop_recommender_system.settings')
+    try:
+        from django.core.management import execute_from_command_line
+    except ImportError as exc:
+        raise ImportError(
+            "Couldn't import Django. Are you sure it's installed and "
+            "available on your PYTHONPATH environment variable? Did you "
+            "forget to activate a virtual environment?"
+        ) from exc
+    execute_from_command_line(sys.argv)
+if __name__ == '__main__':
+    main()
+
+import os
+
+from django.core.asgi import get_asgi_application
+
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'crop_recommender_system.settings')
+
+application = get_asgi_application()
+
+STATIC_URL = '/static/'
+STATICFILES_DIRS = [os.path.join(BASE_DIR,'Template/images')]
+MEDIA_URL = '/media/'
+MEDIA_ROOT = os.path.join(BASE_DIR, 'Template/media')
+
+STATIC_ROOT = '/static/'
+
+STATIC_URL = '/static/'
+
+url(r'^likeschart1/(?P<like_chart1>\w+)', serviceprovider.likeschart1, name="likeschart1"),
+    url(r'^Train_Test_DataSets/$', serviceprovider.Train_Test_DataSets, name="Train_Test_DataSets"),
+    url(r'^View_All_Crop_Yield_Prediction/$', serviceprovider.View_All_Crop_Yield_Prediction, name="View_All_Crop_Yield_Prediction"),
+
+    url(r'^Download_Trained_DataSets/$', serviceprovider.Download_Trained_DataSets, name="Download_Trained_DataSets"),
+
+
+
+
+]+ static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
+
+mport os
+
+from django.core.wsgi import get_wsgi_application
+
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'crop_recommender_system.settings')
+application = get_wsgi_application()
+
+# Generated by Django 2.0.5 on 2019-04-23 07:01
+
+from django.db import migrations, models
+
+
+class Migration(migrations.Migration):
+
+    initial = True
+
+    dependencies = [
+    ]
+
+    operations = [
+        migrations.CreateModel(
+            name='ClientRegister_Model',
+            fields=[
+                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
+                ('username', models.CharField(max_length=30)),
+                ('email', models.EmailField(max_length=30)),
+                ('password', models.CharField(max_length=10)),
+                ('phoneno', models.IntegerField()),
+                ('country', models.CharField(max_length=30)),
+                ('state', models.CharField(max_length=30)),
+                ('city', models.CharField(max_length=30)),
+            ],
+        ),
+    ]
+# Generated by Django 2.0.5 on 2019-04-25 05:53
+
+from django.db import migrations, models
+import django.db.models.deletion
+
+
+class Migration(migrations.Migration):
+
+    dependencies = [
+        ('Remote_User', '0001_initial'),
+    ]
+
+    operations = [
+        migrations.CreateModel(
+            name='ClientPosts_Model',
+            fields=[
+                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
+                ('tdesc', models.CharField(max_length=300)),
+                ('uname', models.CharField(max_length=300)),
+                ('topics', models.CharField(max_length=300)),
+                ('sanalysis', models.CharField(max_length=300)),
+                ('senderstatus', models.CharField(default='process', max_length=300)),
+                ('ratings', models.IntegerField(default=0)),
+                ('userId', models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to='Remote_User.ClientRegister_Model')),
+            ],
+        ),
+    ]
+# Generated by Django 2.0.5 on 2019-04-25 09:57
+
+from django.db import migrations, models
+
+
+class Migration(migrations.Migration):
+
+    dependencies = [
+        ('Remote_User', '0002_clientposts_model'),
+    ]
+
+    operations = [
+        migrations.AddField(
+            model_name='clientposts_model',
+            name='uname',
+            field=models.IntegerField(default=0),
+        ),
+    ]
+# Generated by Django 2.0.5 on 2019-04-29 04:57
+
+from django.db import migrations, models
+
+
+class Migration(migrations.Migration):
+
+    dependencies = [
+        ('Remote_User', '0003_clientposts_model_usefulcounts'),
+    ]
+
+    operations = [
+        migrations.AddField(
+            model_name='clientposts_model',
+            name='uses',
+            field=models.CharField(default='', max_length=100),
+            preserve_default=False,
+        ),
+        migrations.AddField(
+            model_name='clientposts_model',
+            name='tname',
+            field=models.CharField(default='', max_length=50),
+            preserve_default=False,
+        ),
+    ]
+# Generated by Django 2.0.5 on 2019-04-29 05:15
+
+from django.db import migrations, models
+
+
+class Migration(migrations.Migration):
+
+    dependencies = [
+        ('Remote_User', '0004_auto_20190429_1027'),
+    ]
+
+    operations = [
+        migrations.AddField(
+            model_name='clientposts_model',
+            name='dislikes',
+            field=models.IntegerField(default=0),
+        ),
+    ]
+# Generated by Django 2.0.5 on 2019-04-29 05:19
+
+from django.db import migrations, models
+
+
+class Migration(migrations.Migration):
+
+    dependencies = [
+        ('Remote_User', '0005_clientposts_model_dislikes'),
+    ]
+
+    operations = [
+        migrations.CreateModel(
+            name='review_Model',
+            fields=[
+
+                ('uname', models.CharField(max_length=100)),
+                ('ureview', models.CharField(max_length=100)),
+                ('tname', models.CharField(max_length=300)),
+                ('suggestion', models.CharField(max_length=300)),
+                ('dt', models.CharField(max_length=300)),
+                ('sanalysis', models.CharField(max_length=300)),
+            ],
+        ),
+    ]
+# Generated by Django 2.0.5 on 2019-04-30 04:45
+
+from django.db import migrations, models
+
+
+class Migration(migrations.Migration):
+
+    dependencies = [
+        ('Remote_User', '0006_review_model'),
+    ]
+
+    operations = [
+        migrations.AddField(
+            model_name='clientposts_model',
+            name='uname',
+            field=models.CharField(default='', max_length=50),
+            preserve_default=False,
+        ),
+    ]
+from django.contrib import admin
+from django.apps import AppConfig
+
+
+class ClientSiteConfig(AppConfig):
+    name = 'Remote_User'
+
+from django import forms
+
+from Remote_User.models import ClientRegister_Model
+
+
+class ClientRegister_Form(forms.ModelForm):
+    password = forms.CharField(widget=forms.PasswordInput())
+    email = forms.EmailField(required=True)
+
+    class Meta:
+        model = ClientRegister_Model
+        fields = ("username","email","password","phoneno","country","state","city")
+from django.db import models
+
+# Create your models here.
+from django.db.models import CASCADE
+
+
+class ClientRegister_Model(models.Model):
+    username = models.CharField(max_length=30)
+    email = models.EmailField(max_length=30)
+    password = models.CharField(max_length=10)
+    phoneno = models.CharField(max_length=10)
+    country = models.CharField(max_length=30)
+    state = models.CharField(max_length=30)
+    city = models.CharField(max_length=30)
+
+
+class crop_prediction(models.Model):
+
+    State_Name= models.CharField(max_length=300)
+    names= models.CharField(max_length=300)
+    Area= models.CharField(max_length=300)
+    Soil_Type= models.CharField(max_length=300)
+    Yield_Prediction= models.CharField(max_length=300)
+    Production_Prediction= models.CharField(max_length=300)
+
+class crop_recommendation(models.Model):
+
+    State_Name= models.CharField(max_length=300)
+    names= models.CharField(max_length=300)
+    Area= models.CharField(max_length=300)
+    Soil_Type= models.CharField(max_length=300)
+
+class detection_ratio(models.Model):
+
+    names = models.CharField(max_length=300)
+    ratio = models.CharField(max_length=300)
+
+class detection_accuracy(models.Model):
+
+    names = models.CharField(max_length=300)
+    ratio = models.CharField(max_length=300)
+rom django.test import TestCase
+from django.db.models import Count
+from django.db.models import Q
+from django.shortcuts import render, redirect, get_object_or_404
+import datetime
+import openpyxl
+
+
+# Create your views here.
+from Remote_User.models import ClientRegister_Model,crop_prediction,detection_ratio,crop_recommendation
+
+def login(request):
+
+
+    if request.method == "POST" and 'submit1' in request.POST:
+
+        username = request.POST.get('username')
+        password = request.POST.get('password')
+        try:
+            enter = ClientRegister_Model.objects.get(username=username,password=password)
+            request.session["userid"] = enter.id
+
+            return redirect('ViewYourProfile')
+        except:
+            pass
+
+    return render(request,'RUser/login.html')
+
+def Register1(request):
+
+    if request.method == "POST":
+        username = request.POST.get('username')
+        email = request.POST.get('email')
+        password = request.POST.get('password')
+        phoneno = request.POST.get('phoneno')
+        country = request.POST.get('country')
+        state = request.POST.get('state')
+        city = request.POST.get('city')
+        ClientRegister_Model.objects.create(username=username, email=email, password=password, phoneno=phoneno,
+                                            country=country, state=state, city=city)
+
+        return render(request, 'RUser/Register1.html')
+    else:
+        return render(request,'RUser/Register1.html')
+
+def ViewYourProfile(request):
+    userid = request.session['userid']
+    obj = ClientRegister_Model.objects.get(id= userid)
+    return render(request,'RUser/ViewYourProfile.html',{'object':obj})
+
+
+def Predict_Crop_Yiled_OnDataSets(request):
+        expense = 0
+        kg_price=0
+        if request.method == "POST":
+
+            State = request.POST.get('State')
+            cname=request.POST.get('cname')
+            area = request.POST.get('area')
+            stype = request.POST.get('stype')
+
+            area1=int(area)
+
+            if area1 < 10:
+                production = 5000
+            elif area1 < 50 and area1 > 10:
+                production = 10000
+            elif area1 < 100 and area1 > 50:
+                production = 25000
+                expense = 150000
+                print(expense)
+            elif area1 < 500 and area1 > 250:
+                expense = 200000
+            else:
+                expense=300000
+
+
+            if  cname=="Dry ginger":
+                kg_price=100
+            elif cname == "Sugarcane":
+                 kg_price = 50
+            elif cname == "Sweet potato":
+                kg_price = 120
+            elif cname == "Soyabean":
+                kg_price = 170
+            
+            production1 = int(production)
+
+            yield1=(production1*(kg_price))-int(expense)
+
+            prod=production1/area1
+
+            crop_prediction.objects.create(State_Name=State,names=cname,Area=area,Soil_Type=stype,Yield_Prediction=yield1,Production_Prediction=prod)
+
+
+            return render(request, 'RUser/Predict_Crop_Yiled_OnDataSets.html',{'objs':yield1,'objs1':prod})
+        return render(request, 'RUser/Predict_Crop_Yiled_OnDataSets.html')
+
+
+def Recommend_Crop(request):
+    expense = 0
+    kg_price = 0
+    if request.method == "POST":
+
+        State = request.POST.get('State')
+        area = request.POST.get('area')
+        stype = request.POST.get('stype')
+
+        area1=int(area)
+
+        if stype == "Sandy" and area1>20:
+            Crop_Name = "Groundnet"
+        elif stype == "Loamy" and area1>50:
+            Crop_Name = "Wheat OR Gram OR Sugarcane OR Jute OR Vegetables"
+        elif stype == "Black" and area1>70:
+            Crop_Name = "Cotton crop OR  Jowar OR Sunflower and millets"
+        elif stype == "Red" and area1>150:
+            Crop_Name = "Cotton OR Wheat OR pulses OR millets OR tobacco OR oil seeds OR Potatoes"
+        else:
+            Crop_Name="No Recomendation"
+
+        crop_recommendation.objects.create(State_Name=State,names=Crop_Name,Area=area,Soil_Type=stype)
+
+        return render(request, 'RUser/Recommend_Crop.html', {'objs': Crop_Name})
+    return render(request, 'RUser/Recommend_Crop.html')
+from django.contrib import admin
+from django.apps import AppConfig
+
+
+class ResearchSiteConfig(AppConfig):
+    name = 'Service_Provider'
+
+from django.db import models
+from django.test import TestCase
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+import re
+from sklearn.ensemble import VotingClassifier
+import warnings
+warnings.filterwarnings("ignore")
+plt.style.use('ggplot')
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
+from sklearn.metrics import accuracy_score
+from sklearn.metrics import f1_score
+
+# Create your views here.
+from Remote_User.models import ClientRegister_Model,crop_prediction,detection_ratio,detection_accuracy,crop_recommendation
+
+
+def serviceproviderlogin(request):
+    if request.method  == "POST":
+        admin = request.POST.get('username')
+        password = request.POST.get('password')
+        if admin == "Admin" and password =="Admin":
+            return redirect('View_Remote_Users')
+
+    return render(request,'SProvider/serviceproviderlogin.html')
+
+
+def viewtreandingquestions(request,chart_type):
+    dd = {}
+    pos,neu,neg =0,0,0
+    poss=None
+    topic = crop_prediction.objects.values('ratings').annotate(dcount=Count('ratings')).order_by('-dcount')
+    for t in topic:
+        topics=t['ratings']
+        pos_count=crop_prediction.objects.filter(topics=topics).values('names').annotate(topiccount=Count('ratings'))
+        poss=pos_count
+        for pp in pos_count:
+            senti= pp['names']
+            if senti == 'positive':
+                pos= pp['topiccount']
+            elif senti == 'negative':
+                neg = pp['topiccount']
+            elif senti == 'nutral':
+                neu = pp['topiccount']
+        dd[topics]=[pos,neg,neu]
+    return render(request,'SProvider/viewtreandingquestions.html',{'object':topic,'dd':dd,'chart_type':chart_type})
+
+def View_All_Crop_Yield_Prediction(request):
+
+    obj = crop_prediction.objects.all()
+    return render(request, 'SProvider/View_All_Crop_Yield_Prediction.html', {'objs': obj})
+
+def View_All_Crop_Recommendations(request):
+    obj = crop_recommendation.objects.all()
+    return render(request, 'SProvider/View_All_Crop_Recommendations.html', {'objs': obj})
+
+def View_Remote_Users(request):
+    obj=ClientRegister_Model.objects.all()
+    return render(request,'SProvider/View_Remote_Users.html',{'objects':obj})
+
+def ViewTrendings(request):
+    topic = crop_prediction.objects.values('topics').annotate(dcount=Count('topics')).order_by('-dcount')
+    return  render(request,'SProvider/ViewTrendings.html',{'objects':topic})
+
+def negativechart(request,chart_type):
+    dd = {}
+    pos, neu, neg = 0, 0, 0
+    poss = None
+    topic = crop_prediction.objects.values('ratings').annotate(dcount=Count('ratings')).order_by('-dcount')
+    for t in topic:
+        topics = t['ratings']
+        pos_count = crop_prediction.objects.filter(topics=topics).values('names').annotate(topiccount=Count('ratings'))
+        poss = pos_count
+        for pp in pos_count:
+            senti = pp['names']
+            if senti == 'positive':
+                pos = pp['topiccount']
+            elif senti == 'negative':
+                neg = pp['topiccount']
+            elif senti == 'nutral':
+                neu = pp['topiccount']
+        dd[topics] = [pos, neg, neu]
+    return render(request,'SProvider/negativechart.html',{'object':topic,'dd':dd,'chart_type':chart_type})
+
+def charts(request,chart_type):
+    chart1 = crop_prediction.objects.values('names').annotate(dcount=Avg('Yield_Prediction'))
+    return render(request,"SProvider/charts.html", {'form':chart1, 'chart_type':chart_type})
+
+def charts1(request,chart_type):
+    chart1 = detection_accuracy.objects.values('names').annotate(dcount=Avg('ratio'))
+    return render(request,"SProvider/charts1.html", {'form':chart1, 'chart_type':chart_type})
+
+    response = HttpResponse(content_type='application/ms-excel')
+        response['Content-Disposition'] = 'attachment; filename="TrainedData.xls"'
+        wb = xlwt.Workbook(encoding='utf-8')
+    ws = wb.add_sheet("sheet1")
+        row_num = 0
+    font_style = xlwt.XFStyle()
+        font_style.font.bold = True
+        obj = crop_prediction.objects.all()
+    data = obj  # dummy method to fetch data.
+    for my_row in data:
+        row_num = row_num + 1
+        ws.write(row_num, 0, my_row.State_Name, font_style)
+        ws.write(row_num, 1, my_row.names, font_style)
+    wb.save(response)
+    return response
+
+def Train_Test_DataSets(request):
+
+    detection_accuracy.objects.all().delete()
+
+    df = pd.read_csv('crop_production.csv')
+
+    df
+    df.columns
+    df.rename(columns={'production': 'production', 'State_Name': 'sname'}, inplace=True)
+
+    sum_maxp = df["production"].count()
+
+    df["ratio_of_production"] = df["production"].map(lambda x: (x / int(sum_maxp)))
+
+    def apply_results(prod):
+        if (float(prod) <= 1):
+            return 1  # Not Recommended
+        elif (float(prod) >= 1):
+            return 2  # Recommended
+
+    df['label'] = df['ratio_of_production'].apply(apply_results)
+    results = df['label'].value_counts()
+
+    cv = CountVectorizer()
+    X = df['sname']
+    y = df['label']
+
+    X = cv.fit_transform(X)
+
+    print(y)
+
+    from sklearn.model_selection import train_test_split
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.20)
+    X_train.shape, X_test.shape, y_train.shape
+
+    print("Naive Bayes")
+
+    from sklearn.naive_bayes import MultinomialNB
+    NB = MultinomialNB()
+    NB.fit(X_train, y_train)
+    predict_nb = NB.predict(X_test)
+
+    naivebayes = accuracy_score(y_test, predict_nb) * 100
+    print(naivebayes)
+    print(confusion_matrix(y_test, predict_nb))
+    print(classification_report(y_test, predict_nb))
+    detection_accuracy.objects.create(names="Naive Bayes", ratio=naivebayes)
+
+    # SVM Model
+    print("SVM")
+    from sklearn import svm
+    lin_clf = svm.LinearSVC()
+    lin_clf.fit(X_train, y_train)
+    predict_svm = lin_clf.predict(X_test)
+    svm_acc = accuracy_score(y_test, predict_svm) * 100
+    print(svm_acc)
+    print("CLASSIFICATION REPORT")
+    print(classification_report(y_test, predict_svm))
+    print("CONFUSION MATRIX")
+    print(confusion_matrix(y_test, predict_svm))
+
+    detection_accuracy.objects.create(names="SVM", ratio=svm_acc)
+
+    print("Decision Tree Classifier")
+    from sklearn.tree import DecisionTreeClassifier
+
+    DT = DecisionTreeClassifier()
+    DT.fit(X_train, y_train)
+    pred_dt = DT.predict(X_test)
+    DT.score(X_test, y_test)
+    print("ACCURACY")
+    print(accuracy_score(y_test, pred_dt) * 100)
+    print("CLASSIFICATION REPORT")
+    print(classification_report(y_test, pred_dt))
+    print("CONFUSION MATRIX")
+    print(confusion_matrix(y_test, pred_dt))
+    detection_accuracy.objects.create(names="Decision Tree Classifier", ratio=accuracy_score(y_test, pred_dt) * 100)
+
+    print("K Neighbors Classifier")
+    from sklearn.neighbors import KNeighborsClassifier
+    kn = KNeighborsClassifier()
+    kn.fit(X_train, y_train)
+    knpredict = kn.predict(X_test)
+    print("ACCURACY")
+    print(accuracy_score(y_test, knpredict) * 100)
+    print("CLASSIFICATION REPORT")
+    print(classification_report(y_test, knpredict))
+    print("CONFUSION MATRIX")
+    print(confusion_matrix(y_test, knpredict))
+
+    detection_accuracy.objects.create(names="KNeighborsClassifier", ratio=accuracy_score(y_test, knpredict) * 100)
+
+    print("Random Forest Classifier")
+    from sklearn.ensemble import RandomForestClassifier
+    rf_clf = RandomForestClassifier()
+    rf_clf.fit(X_train, y_train)
+    rfpredict = rf_clf.predict(X_test)
+    print("ACCURACY")
+    print(accuracy_score(y_test, rfpredict) * 100)
+    print("CLASSIFICATION REPORT")
+    print(classification_report(y_test, rfpredict))
+    print("CONFUSION MATRIX")
+    print(confusion_matrix(y_test, rfpredict))
+
+    detection_accuracy.objects.create(names="Random Forest Classifier", ratio=accuracy_score(y_test, rfpredict) * 100)
+
+    Labeled_Data = 'Labeled_Data.csv'
+    df.to_csv(Labeled_Data, index=False)
+    df.to_markdown
+
+    obj = detection_accuracy.objects.all()
+
+    return render(request,'SProvider/Train_Test_DataSets.html', {'objs': obj})
+{% extends 'SProvider/design1.html' %}
+{% block researchblock %}
+
+<style>
+    body{
+   background-color: #FFFFFF;
+    }
+    .menu table{
+        width:100%;
+        text-align:center;
+
+    }
+
+    .menu table td:hover{
+         background:rgb(0,0,0);
+    }
+
+     .menu table td{
+          background: #584b4f;
+     }
+
+     .menu table,.menu table th,.menu table td {
+          border: ;
+          border-collapse: collapse;
+     }
+
+     .menu table th,.menu table  td {
+          padding: 15px;
+     }
+     .topic h1{
+           color:white;
+           padding:2px;
+           text-align:center;
+           border-style:none;
+           height:100px;
+           width:1330px;
+           float:left;
+     }
+     #chartContainer{
+            width: 1180px;
+            margin-left: 250px;
+            margin-top: -354px;
+            position: fixed;
+     }
+     .sidemenu{
+     margin-top: 118px;
+     }
+</style>
+
+
+<script >
+window.onload = function() {
+
+var chart = new CanvasJS.Chart("chartContainer", {
+   animationEnabled: true,
+   title: {
+      text: ""
+   },
+   data: [{
+   {% if chart_type == "line" %}
+      type: "line",
+   {% elif chart_type == "pie" %}
+      type: "pie",
+   {% elif chart_type == "spline" %}
+      type: "spline",
+   {% endif %}
+      startAngle: 240,
+      yValueFormatString: "##0.00\"%\"",
+      indexLabel: "{label} {y}",
+      dataPoints: [
+      {% for o in form %}
+         {y: {{o.dcount}}, label: "{{o.names}}"},
+      {% endfor %}
+      ]
+   }]
+});
+chart.render();
+
+}
+      body{background: url("{% static 'bg.jpg' %}");
+   background-size:cover;
+   font-family: 'Russo One', sans-serif;
+   background-color: #000000;
+    }
+    h1{
+    color:white;
+    }
+.topnav {
+  overflow: hidden;
+  background-color: #812;
+}
+
+.topnav a {
+  float: left;
+  color: #FFFFFF;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #8e4fd1;
+  color: white;
+}
+.style1 {color: #FF0000}
+
+
+
+         body {background: url("{% static 'bg.jpg' %}");
+         }
+         .container-fluid {padding:50px;}
+         .container{background-color:white;padding:50px;   }
+         #title{font-family: 'Fredoka One', cursive;
+}
+         .text-uppercase{
+         font-family: 'Righteous', cursive;
+
+         }
+      .style1 {color: #FF0000}
+        .style4 {color: #FF0000; font-weight: bold; }
+        .style5 {
+   font-family: 'Righteous', cursive;
+   color: #FF0000;
+   font-weight: bold;
+}
+    body {background-color:#000000;}
+     
+sname,District_Name,Crop_Year,cseason,Crop,Area,production
+Andaman and Nicobar Islands,NICOBARS,2000,Kharif     ,Arecanut,1254,2000
+Andaman and Nicobar Islands,NICOBARS,2000,Kharif     ,Other Kharif pulses,456755,57845453
+Andaman and Nicobar Islands,NICOBARS,2000,Kharif     ,Rice,102,321
+Andaman and Nicobar Islands,NICOBARS,2000,Whole Year ,Banana,176,641
+Andaman and Nicobar Islands,NICOBARS,2000,Whole Year ,Cashewnut,720,165
+Andaman and Nicobar Islands,NICOBARS,2000,Whole Year ,Coconut ,18168,6510
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+import re
+from sklearn.ensemble import VotingClassifier
+import warnings
+warnings.filterwarnings("ignore")
+plt.style.use('ggplot')
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
+from sklearn.metrics import accuracy_score
+from sklearn.metrics import f1_score
+
+df = pd.read_csv('crop_production.csv')
+
+df
+df.columns
+df.rename(columns={'production': 'production', 'cseason': 'cseason'}, inplace=True)
+
+sum_maxp = df["production"].sum()
+df["percent_of_production"] = df["production"].map(lambda x:(x/sum_maxp)*100)
+
+
+def apply_results(prod):
+        if (float(prod) <= 3):
+            return 0  # Not Recommended
+        elif (float(prod) >= 3):
+            return 1  # Recommended
+
+df['label'] = df['percent_of_production'].apply(apply_results)
+# df.drop(['label'], axis=1, inplace=True)
+results = df['label'].value_counts()
+
+cv = CountVectorizer()
+X = df['cseason']
+y = df['label']
+
+
+X = cv.fit_transform(X)
+
+
+from sklearn.model_selection import train_test_split
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.20)
+X_train.shape, X_test.shape, y_train.shape
+
+print("Naive Bayes")
+
+from sklearn.naive_bayes import MultinomialNB
+NB = MultinomialNB()
+NB.fit(X_train, y_train)
+predict_nb = NB.predict(X_test)
+naivebayes = accuracy_score(y_test, predict_nb) * 100
+print(naivebayes)
+print(confusion_matrix(y_test, predict_nb))
+print(classification_report(y_test, predict_nb))
+
+
+# SVM Model
+print("SVM")
+from sklearn import svm
+lin_clf = svm.LinearSVC()
+lin_clf.fit(X_train, y_train)
+predict_svm = lin_clf.predict(X_test)
+svm_acc = accuracy_score(y_test, predict_svm) * 100
+print(svm_acc)
+print("CLASSIFICATION REPORT")
+print(classification_report(y_test, predict_svm))
+print("CONFUSION MATRIX")
+print(confusion_matrix(y_test, predict_svm))
+
+Labeled_Data = 'Labeled_Data.csv'
+df.to_csv(Labeled_Data, index=False)
+df.to_markdown
+
+sname,District_Name,Crop_Year,cseason,Crop,Area,production,ratio_of_production,label
+Andaman and Nicobar Islands,NICOBARS,2000,Kharif     ,Arecanut,1254.0,2000.0,3.454231433506045,2
+Andaman and Nicobar Islands,NICOBARS,2000,Kharif     ,Other Kharif pulses,456755.0,57845453.0,99905.79101899828,2
+Andaman and Nicobar Islands,NICOBARS,2000,Kharif     ,Rice,102.0,321.0,0.5544041450777202,1
+
+CREATE TABLE IF NOT EXISTS `remote_user_clientregister_model` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `username` varchar(30) NOT NULL,
+  `email` varchar(30) NOT NULL,
+  `password` varchar(50) NOT NULL,
+  `phoneno` varchar(50) NOT NULL,
+  `country` varchar(30) NOT NULL,
+  `state` varchar(30) NOT NULL,
+  `city` varchar(30) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=3 ;
+
+
+INSERT INTO `remote_user_clientregister_model` (`id`, `username`, `email`, `password`, `phoneno`, `country`, `state`, `city`) VALUES
+(1, 'Mahesh', 'Mahesh123@gmail.co', 'Mahesh', '9535866270', 'India', 'Karnataka', 'Bangalore'),
+(2, 'Manjunath', 'tmksmanju19@gmail.com', 'Manjunath', '9535866270', 'India', 'Karnataka', 'Bangalore');
+
+CREATE TABLE IF NOT EXISTS `remote_user_crop_prediction` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `State_Name` varchar(300) NOT NULL,
+  `names` varchar(300) NOT NULL,
+  `Area` varchar(300) NOT NULL,
+  `Soil_Type` varchar(300) NOT NULL,
+  `Yield_Prediction` varchar(300) NOT NULL,
+  `Production_Prediction` varchar(300) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=10 ;
+
+INSERT INTO `remote_user_crop_prediction` (`id`, `State_Name`, `names`, `Area`, `Soil_Type`, `Yield_Prediction`, `Production_Prediction`) VALUES
+(1, 'Andaman and Nicobar Islands', 'Banana', '176', 'Sandy', '3350000', '284.09090909090907'),
+(2, 'Andaman and Nicobar Islands', 'Coconut', '18168', 'Sandy', '4700000', '11.008366358432408'),
+(3, 'Andaman and Nicobar Islands', 'Coconut', '18168', 'Sandy', '4700000', '11.008366358432408'),
+(4, 'Andaman and Nicobar Islands', 'Coconut', '18168', 'Sandy', '4700000', '11.008366358432408'),
+(5, 'Andhra Pradesh', 'Ragi', '600', 'Red', '13700000', '333.3333333333333'),
+(6, 'Andhra Pradesh', 'Rice', '18000', 'Loamy', '9700000', '11.11111111111111'),
+(7, 'Andhra Pradesh', 'Rice', '18000', 'Loamy', '9700000', '11.11111111111111'),
+(8, 'Andaman and Nicobar Islands', 'Rice', '10681', 'Sandy', '9700000', '18.724838498267953'),
+(9, 'Andaman and Nicobar Islands', 'Banana', '1912', 'Black', '13700000', '104.60251046025104');
+
+CREATE TABLE IF NOT EXISTS `remote_user_crop_recommendation` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `State_Name` varchar(300) NOT NULL,
+  `names` varchar(300) NOT NULL,
+  `Area` varchar(300) NOT NULL,
+  `Soil_Type` varchar(300) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=4 ;
+
+INSERT INTO `remote_user_crop_recommendation` (`id`, `State_Name`, `names`, `Area`, `Soil_Type`) VALUES
+(1, 'Andaman and Nicobar Islands', 'Potatoes, OR sugar beet, OR celery, OR onions, OR carrots, lettuce and market garden crops', '176', 'Peat'),
+(2, 'Andhra Pradesh', 'Groundnet', '7000', 'Sandy'),
+(3, 'Bihar', 'Cotton crop OR  Jowar OR Sunflower and millets', '1130', 'Black');
+CREATE TABLE IF NOT EXISTS `remote_user_detection_accuracy` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `names` varchar(300) NOT NULL,
+  `ratio` varchar(300) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=264 ;
+
+INSERT INTO `remote_user_detection_accuracy` (`id`, `names`, `ratio`) VALUES
+(259, 'Naive Bayes', '57.758620689655174'),
+(260, 'SVM', '57.758620689655174'),
+(261, 'Decision Tree Classifier', '57.758620689655174'),
+(262, 'KNeighborsClassifier', '57.758620689655174'),
+(263, 'Random Forest Classifier', '57.758620689655174');
+
+CREATE TABLE IF NOT EXISTS `remote_user_detection_ratio` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `names` varchar(300) NOT NULL,
+  `ratio` varchar(300) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
